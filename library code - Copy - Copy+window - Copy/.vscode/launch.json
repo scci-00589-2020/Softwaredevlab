@@ -1,0 +1,49 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "LibraryManagementSystem",
+            "request": "launch",
+            "mainClass": "LibraryManagementSystem",
+            "projectName": "library code - Copy - Copy+window - Copy_89da9a31"
+        },
+        {
+            "type": "java",
+            "name": "LibraryManagementSystemGUI",
+            "request": "launch",
+            "mainClass": "LibraryManagementSystemGUI",
+            "projectName": "library code - Copy - Copy+window - Copy_89da9a31"
+        },
+        {
+            "type": "java",
+            "name": "LibraryManagementSystemGUI",
+            "request": "launch",
+            "mainClass": "LibraryManagementSystemGUI",
+            "projectName": "library code - Copy - Copy_977005a4"
+        },
+        {
+            "type": "java",
+            "name": "LibraryManagementSystem",
+            "request": "launch",
+            "mainClass": "LibraryManagementSystem",
+            "projectName": "library code - Copy - Copy_977005a4"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "LibraryManagementSystem",
+            "request": "launch",
+            "mainClass": "LibraryManagementSystem",
+            "projectName": "library code - Copy_86d529a4"
+        }
+    ]
+}
